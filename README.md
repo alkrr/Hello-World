@@ -1,4 +1,4 @@
 # hello-world
 
-## hello-world in different programming languages.
+## hello-world program in different languages.
 
